@@ -1,0 +1,42 @@
+.row {
+	   background-image:url("../images/toy.jpg");
+	   background-repeat: no-repeat;	
+	   height: 1200px;
+	   text-align: center;
+	   padding:150px;
+}
+
+h1 {
+	font-size:90px;
+	font-family:arial;
+}
+
+h2 {
+	font-size:35px;
+	color:tomato;
+	font-family:TimesNewRoman;
+}
+
+h3 {
+   text-align:center;
+   font-size:35px;
+   color: blue;
+}
+
+img {
+	height:300px;
+	width:365px;
+	padding: 2.5px;
+}
+
+p {
+   text-align: center;
+   font-size:30px;
+   color:blue;
+   padding:25px;
+
+}
+
+.images {
+	    padding-left: 15px;
+}
