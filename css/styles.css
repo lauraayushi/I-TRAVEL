@@ -3,18 +3,16 @@
 	   background-repeat: no-repeat;	
 	   height: 1200px;
 	   text-align: center;
-	   padding:150px;
+	   padding:200px;
+}
+
+.logo {
+	   padding:10px;
 }
 
 h1 {
 	font-size:90px;
 	font-family:arial;
-}
-
-h2 {
-	font-size:35px;
-	color:tomato;
-	font-family:TimesNewRoman;
 }
 
 h3 {
@@ -34,9 +32,12 @@ p {
    font-size:30px;
    color:blue;
    padding:25px;
-
 }
 
-.images {
-	    padding-left: 15px;
+.panel {
+	     text-align: center;
+	     padding: 10px;
+	     height:100px;
+	     width:100px;
 }
+
