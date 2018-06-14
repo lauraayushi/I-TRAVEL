@@ -1,3 +1,7 @@
+body {
+	 font-size:18px;
+}
+
 .row {
 	   background-image:url("../images/toy.jpg");
 	   background-repeat: no-repeat;	
@@ -24,7 +28,7 @@ h3 {
 img {
 	height:300px;
 	width:365px;
-	padding: 2.5px;
+	padding:5px;
 }
 
 p {
@@ -34,10 +38,51 @@ p {
    padding:25px;
 }
 
-.panel {
-	     text-align: center;
-	     padding: 10px;
-	     height:100px;
-	     width:100px;
+.row4 {
+	   padding:5px;
 }
 
+.row6 {
+	   background-color:lightgray;
+	   height:420px;
+	   padding:75px;
+}
+
+#google {
+	     height:190px;
+	     width:280px;
+	     padding:30px;
+	     text-align: center;
+}
+
+#eticket {
+	      height:100px;
+	      width:100px;
+	      padding:20px;
+	      text-align: center;
+}
+
+#card {
+	   height:190px;
+	   width:280px;
+	   padding:20px;
+	   text-align: center;
+}
+
+#M-pesa {
+	     height:190px;
+	     width: 280px;
+	     padding: 20px;
+}
+
+#paypal {
+	     height:190px;
+	     width:280px;
+	     padding:20px;
+}
+
+#reservation {
+	         height:150px;
+	         width:210px;
+	         padding:20px;
+}
