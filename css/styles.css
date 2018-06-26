@@ -25,6 +25,10 @@ h3 {
    color: blue;
 }
 
+.container {
+	        padding-bottom:7px;
+} 
+
 img {
 	height:300px;
 	width:365px;
@@ -39,10 +43,6 @@ p {
 }
 
 .row4 {
-	   padding:5px;
-}
-
-.row6 {
 	   background-color:lightgray;
 	   height:420px;
 	   padding:75px;
