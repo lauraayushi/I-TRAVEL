@@ -51,7 +51,7 @@ p {
 #google {
 	     height:190px;
 	     width:280px;
-	     padding:30px;
+	     padding:20px;
 	     text-align: center;
 }
 
@@ -65,14 +65,14 @@ p {
 #card {
 	   height:190px;
 	   width:280px;
-	   padding:20px;
+	   padding:25px;
 	   text-align: center;
 }
 
 #M-pesa {
 	     height:190px;
 	     width: 280px;
-	     padding: 20px;
+	     padding:20px;
 }
 
 #paypal {
@@ -85,4 +85,5 @@ p {
 	         height:150px;
 	         width:210px;
 	         padding:20px;
+	        
 }
